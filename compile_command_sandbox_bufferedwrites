@@ -1,0 +1,1 @@
+ cc -g3 -D__LINUX__ -D_BSD_SOURCE -Wall -pedantic -lpcap -lportaudio -lm -o sandbox sandbox_bufferedwrites.c

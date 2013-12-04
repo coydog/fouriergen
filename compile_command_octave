@@ -1,0 +1,2 @@
+ cc -g3 -D__LINUX__ -D_BSD_SOURCE -Wall -pedantic -lpcap -lportaudio -lm  fouriergen.c octave.c -o octave
+
