@@ -16,7 +16,7 @@ The [portaudio](www.portaudio.com) library is required.
 
 ####TODO:
 
-Floating point frequencies. Keyboard control. Maybe fast Fourier once
-everything else is stabilized
+Floating point frequencies. Keyboard control. Envelope. Maybe fast Fourier once
+everything else is stabilized.
 
 Copyright 2013 Coydog Software
