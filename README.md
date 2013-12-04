@@ -12,6 +12,8 @@ To compile, try
 
 	sh < compile_command_octave
 
+See the included shell script for an example composition.
+
 The [portaudio](www.portaudio.com) library is required.
 
 ####TODO:
